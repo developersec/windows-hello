@@ -1,6 +1,6 @@
 # \<windows-hello\>
 
-&lt;windows-hello&gt; is a custom element used to authenticate with  Windows Hello
+&lt;windows-hello&gt; is a reusable custom web component used to authenticate with Windows Hello. This web component allows other web developers to easily integrate Windows Hello's Web Authentication into their web application 
 
 ## Install the Polymer-CLI
 
