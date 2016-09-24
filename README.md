@@ -2,6 +2,8 @@
 
 &lt;windows-hello&gt; is a reusable custom web component used to authenticate with Windows Hello. This web component allows other web developers to easily integrate Windows Hello's Web Authentication into their web application 
 
+Note: Currently supported only in Microsoft Edge (other browsers coming soon!) with Windows 10
+
 ## Install the Polymer-CLI
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
