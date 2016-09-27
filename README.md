@@ -4,6 +4,16 @@
 
 Note: Currently supported only in Microsoft Edge (other browsers coming soon!) with Windows 10
 
+Please be a contributor and help improve this web component! 
+
+
+## Related Links
+
+[Windows Hello in Microsoft Edge](https://channel9.msdn.com/Events/Build/2016/P514)
+
+[A world without passwords: Windows Hello in Microsoft Edge](https://blogs.windows.com/msedgedev/2016/04/12/a-world-without-passwords-windows-hello-in-microsoft-edge)
+
+
 ## Install the Polymer-CLI
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
