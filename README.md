@@ -2,6 +2,12 @@
 
 &lt;windows-hello&gt; is a reusable custom web component used to authenticate with Windows Hello. This web component allows other web developers to easily integrate Windows Hello's Web Authentication into their web application 
 
+## Example 
+
+```html
+<windows-hello relying-party="Outlook" display-name="Roman Canlas" account-name="roman.canlas@hotmail.com" challenge="challengefromserver"></windows-hello>
+```
+
 Note: Currently supported only in Microsoft Edge (other browsers coming soon!) with Windows 10
 
 Please be a contributor and help improve this web component! 
