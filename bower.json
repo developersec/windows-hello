@@ -1,7 +1,9 @@
 {
   "name": "windows-hello",
-  "description": "&lt;windows-hello&gt; is a custom element used to authenticate with  Windows Hello",
+  "description": "&lt;windows-hello&gt; is a custom element used to authenticate with  Windows Hello <windows",
   "main": "windows-hello.html",
+  "version": "1.0.1",
+  "keywords": ["web-components","authentication","windows","hello","windows-hello","windows hello","roman canlas"],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0"
   },
