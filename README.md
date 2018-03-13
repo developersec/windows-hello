@@ -1,3 +1,7 @@
+# Lates update 2018-03-11
+
+&lt;windows-hello&gt; custom web component is now migrated with the latest Polymer 2.0!    
+
 # \<windows-hello\>
 
 &lt;windows-hello&gt; is a reusable custom web component used to authenticate with Windows Hello. This web component allows other web developers to easily integrate Windows Hello's Web Authentication into their web application 
