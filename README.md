@@ -1,6 +1,7 @@
-# Lates update 2018-03-11
+# Latest update 2018-03-11
 
 &lt;windows-hello&gt; custom web component is now migrated with the latest Polymer 2.0!    
+
 
 # \<windows-hello\>
 
